@@ -3,8 +3,8 @@
 > This game was adapted from the Simpsons's episode 'Bart Gets an F.' A brief glimpse of the cartoon video game was shown, where the player was running away from Granda, only to get caught by mothballs. Using this scene, and various other context clues, we pieced together our iteration of the game.
 ## Gameplay
 > The game's premise follows the ungrateful grandchild as they try to escape grandma's house without colliding into either grandma herself or the mothballs. The grandchild can use the F key to fire a total of 6 bullets after picking up the gun. Any shots that hit grandma will momentarily stun her. However, shooting the mothballs will reveal a heart. The player's objective is to collect all three hearts (from the mothballs), and successfully escape grandma's house. However, if the player collides with either the mothballs or grandma, they are stuck within the house.
-## Grader Mode
-> The grader mode can be accessed by toggling the G key during the menu scene. This option is not listed to public viewers, and is ideally only meant for graders. This key disables collisions with Grandma, and allows the player to play the game without dying. The amount of bullets the player has however remains the same number.
+## Collisions & Animations 
+> The collisions and animations of this game were deliberately "wonky" in spirit of the original "gameplay" presented within the episode. The movement of the characters as a result is limited to a few frames. Similarly, the collision detection works in a similar manner to recreate the original effect of the game. 
 ## Tutorial Scene
 > The tutorial provides the user information of the game's controls and informs them to avoid various obstacles, namely Grandma and the Mothballs, along their path. The only user inputs for player control in this game are the arrows keys and the F key. There are various other keys used specifically to transition into other scenes or to restart the game that are listed on the screen. 
 ## Assets
